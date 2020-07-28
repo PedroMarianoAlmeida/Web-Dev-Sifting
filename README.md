@@ -18,3 +18,7 @@ A list of all free and relevante material that I found about Next.js
 
 - [Celke Youtube Playlist - Mostra bem o começo e instalação de Bootstrap, mas depois foca em backend](https://www.youtube.com/playlist?list=PLmY5AEiqDWwCKtqpOg7z4sJQLlULms9_K)
 
+## Social Media
+
+- [Facebook Group](https://www.facebook.com/groups/833999660461940)
+
