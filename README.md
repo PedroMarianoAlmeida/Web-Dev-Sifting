@@ -11,3 +11,9 @@ Everything that I find the best of Web Development and some code tips that I use
 - [Web Design Tools](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Design.md) - Colors, font text and image banks
 
 - [Media Tools](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Media%20Manipulation.md) - Create, convert, record screen, etc
+
+- [Frontend](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Design.md) - Some tools and tips about frontend
+
+## Tutorials
+
+- [Fontawesome React](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/tutorials/fontawesome-react.md)
