@@ -18,6 +18,8 @@ The best tools and websites to help in Web Development Design
 
 - [Colorzilla](https://www.colorzilla.com/chrome/) - Google Chrome Plugin to get the color hex code from any point in your browser
 
+-[Egg Gradients](https://www.eggradients.com/) - Get gradient colours
+
 #### Complementary
 
 - [COLOURlovers](https://www.colourlovers.com/) - Find colour pallete sorted by subject
