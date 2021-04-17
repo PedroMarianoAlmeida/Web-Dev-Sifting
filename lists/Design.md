@@ -4,13 +4,25 @@ The best tools and websites to help in Web Development Design
 
 - [Canva](https://www.canva.com/) - Biuld logo (and social media posts)
 
-## Images Bank
+## Images
 
 - <https://www.pexels.com/> - They have video too
 
 - <https://pixabay.com/>
 
 - <https://unsplash.com/>
+
+## Icons
+
+- [Font Awsome](https://fontawesome.com/) - [using with React.js](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/tutorials/fontawesome-react.md)
+
+- [CSS Icons](https://css.gg/)
+
+- [Hero Icons](https://heroicons.com/)
+
+- [Iconduck](https://iconduck.com/)
+
+- [Materialize](https://materializecss.com/icons.html)
 
 ## Colors
 
@@ -19,8 +31,6 @@ The best tools and websites to help in Web Development Design
 - [Colorzilla](https://www.colorzilla.com/chrome/) - Google Chrome Plugin to get the color hex code from any point in your browser
 
 - [Egg Gradients](https://www.eggradients.com/) - Get gradient colours
-
-#### Complementary
 
 - [COLOURlovers](https://www.colourlovers.com/) - Find colour pallete sorted by subject
 
@@ -35,7 +45,3 @@ The best tools and websites to help in Web Development Design
 #### Usual Fonts
 
 - Roboto (Google Default)
-
-## Português
-
-- [Chief of Design](https://www.chiefofdesign.com.br/materiais-educativos/) - Conteúdo gratuito sobre web design

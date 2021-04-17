@@ -67,3 +67,5 @@ Some tools and tips about frontend
 ## Português
 
 - <https://99flixmvp.com/home-2/>
+
+- [Chief of Design](https://www.chiefofdesign.com.br/materiais-educativos/) - Conteúdo gratuito sobre web design

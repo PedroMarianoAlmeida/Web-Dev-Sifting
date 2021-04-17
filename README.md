@@ -4,11 +4,7 @@ Everything that I find the best of Web Development and some code tips that I use
 
 ## Lists
 
-- [Free Icons](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Icons.md)
-
-- [Next.js Content](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Next.js%20Content.md)
-
-- [Web Design Tools](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Design.md) - Colors, font text and image banks
+- [Web Design Tools](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Design.md) - Colors, font text, image and icons
 
 - [Media Tools](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Media%20Manipulation.md) - Create, convert, record screen, etc
 
@@ -17,6 +13,8 @@ Everything that I find the best of Web Development and some code tips that I use
 - [npm for React Projects](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/React%20npm.md)
 
 - [Learning](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Learning.md)
+
+- [Next.js Content](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Next.js%20Content.md)
 
 - [Public API](https://github.com/public-apis/public-apis) - Another repository
 
