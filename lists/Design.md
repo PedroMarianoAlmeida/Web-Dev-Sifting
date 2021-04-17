@@ -2,8 +2,6 @@
 
 The best tools and websites to help in Web Development Design
 
-- [Canva](https://www.canva.com/) - Biuld logo (and social media posts)
-
 ## Images
 
 - <https://www.pexels.com/> - They have video too
@@ -45,3 +43,9 @@ The best tools and websites to help in Web Development Design
 #### Usual Fonts
 
 - Roboto (Google Default)
+
+## Miscellaneous
+
+- <https://carbon.now.sh/> - Create and share beautiful images of your source code
+
+- [Canva](https://www.canva.com/) - Biuld logo (and social media posts)
