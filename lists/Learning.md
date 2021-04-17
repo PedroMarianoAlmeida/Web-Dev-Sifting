@@ -28,6 +28,8 @@ Some tools and tips about frontend
 
 - <https://www.codecademy.com/>
 
+- <https://www.uopeople.edu/programs/>
+
 - <https://developers.google.com/learn/pathways>
 
 - <https://developers.google.com/search/docs>
