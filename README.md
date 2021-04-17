@@ -14,7 +14,7 @@ Everything that I find the best of Web Development and some code tips that I use
 
 - [Frontend](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Design.md) - Some tools and tips about frontend
 
-- [npm or React Projects](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/React%20npm.md)
+- [npm for React Projects](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/React%20npm.md)
 
 ## Tutorials
 
