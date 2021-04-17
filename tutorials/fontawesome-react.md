@@ -36,9 +36,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 ```
 
-      Note 1: The name of Icon will be in camelCase
+ *Note 1: The name of Icon will be in camelCase*
    
-      Note 2: Check if you are trying to get from the correct importation @fontawsome (because there are 3)
+ *Note 2: Check if you are trying to get from the correct importation @fontawsome (because there are 3)*
 
 - Put the icon where you want:
 
