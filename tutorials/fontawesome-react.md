@@ -1,6 +1,6 @@
 # Using Fontwesome in React projects
 
-- (Oficial Documentation)[https://fontawesome.com/how-to-use/on-the-web/using-with/react]
+- [Oficial Documentation](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
 
 ### Step 1: Download packages
 
