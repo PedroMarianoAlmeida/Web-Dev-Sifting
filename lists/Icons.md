@@ -4,7 +4,7 @@ The best websites to get icons for free
 
 - [Font Awsome](https://fontawesome.com/)
 
-- [CSS Icons](https://css.gg/app/)
+- [CSS Icons](https://css.gg/)
 
 - [Hero Icons](https://heroicons.com/)
 
