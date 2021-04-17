@@ -21,3 +21,7 @@ Everything that I find the best of Web Development and some code tips that I use
 ## Tutorials
 
 - [Fontawesome React](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/tutorials/fontawesome-react.md)
+
+## Code Snippets
+
+- [Material UI](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/code-snippets/material%20ui.md)
