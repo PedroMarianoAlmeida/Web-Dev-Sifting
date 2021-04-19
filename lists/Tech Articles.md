@@ -5,3 +5,5 @@
 - <https://tldr.tech/>
 
 - <https://dev.to/>
+
+- <https://gomakethings.com/> - Vanilla JavaScript
