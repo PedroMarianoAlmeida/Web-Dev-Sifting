@@ -10,6 +10,8 @@
 
 - [Elsa Speak](https://elsaspeak.com/) - Focused in pronunciation
 
+- [Cambridge English Test](https://www.cambridgeenglish.org/test-your-english/general-english/) - Check your proficiency
+
 ### IELTS preparation
 
 - <https://www.ieltsadvantage.com/>
