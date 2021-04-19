@@ -1,6 +1,8 @@
-# Web Dev Panning
+# Web Dev Sifting
 
-Everything that I find the best of Web Development and some code tips that I use in my projects
+<img src="https://github.com/PedroMarianoAlmeida/Web-Dev-Sifting/blob/master/images/Web%20dev%20Sifting.png" width="250" height="250">
+
+Only the gems of everything that I found over the internet about web development (and my own content too)
 
 ## Lists
 
