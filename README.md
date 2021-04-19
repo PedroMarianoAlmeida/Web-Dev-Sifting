@@ -4,7 +4,7 @@
 
 Only the gems of everything that I found over the internet about web development (and my own content too)
 
-## Lists
+## External Content
 
 - [Web Design Tools](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Design.md) - Colors, font text, image and icons
 
@@ -14,7 +14,9 @@ Only the gems of everything that I found over the internet about web development
 
 - [npm for React Projects](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/React%20npm.md)
 
-- [Learning](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Learning.md)
+- [Tech Learning](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Learning.md)
+
+- [Language Learning](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Language.md)
 
 - [VS Code Extensions](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/VS%20Code%20extensions.md)
 
@@ -24,7 +26,7 @@ Only the gems of everything that I found over the internet about web development
 
 - [Tech Articles Mailing](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Tech%20Articles.md)
 
-- [Public API](https://github.com/public-apis/public-apis) - Another repository
+- [Public API List](https://github.com/public-apis/public-apis)
 
 ## Tutorials
 
