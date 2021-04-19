@@ -20,6 +20,8 @@ Everything that I find the best of Web Development and some code tips that I use
 
 - [Next.js Content](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Next.js%20Content.md)
 
+- [Tech Articles Mailing](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Tech%20Articles.md)
+
 - [Public API](https://github.com/public-apis/public-apis) - Another repository
 
 ## Tutorials
