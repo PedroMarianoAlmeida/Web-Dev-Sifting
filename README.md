@@ -14,6 +14,10 @@ Everything that I find the best of Web Development and some code tips that I use
 
 - [Learning](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Learning.md)
 
+- [VS Code Extensions](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/VS%20Code%20extensions.md)
+
+- [VS Code Shortcuts](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/VS%20Code%20Shortcuts.md)
+
 - [Next.js Content](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Next.js%20Content.md)
 
 - [Public API](https://github.com/public-apis/public-apis) - Another repository
