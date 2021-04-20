@@ -10,7 +10,9 @@ Some tools and tips about frontend
 
 - <https://projecteuler.net/>
 
-- <https://flexboxfroggy.com/>
+- <https://flexboxfroggy.com/> - CSS Flex box
+
+- <https://codepip.com/games/grid-garden/> - CSS Grid
 
 - <https://mastery.games/>
 
