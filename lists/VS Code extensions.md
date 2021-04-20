@@ -8,6 +8,8 @@
 
 - Material Icon Theme - It put icon logo according to with the
 
+- Polacode - Get good photos of the code
+
 ## Structure
 
 - ESLint - Code Patterns formatter
@@ -15,6 +17,8 @@
 - Markdown Lint - Same the ESLint, but for .md files
 
 - Prettier - Code styling formatter
+
+- StandardJS - JavaScript Standard Style
 
 - Auto Rename Tag - Automatically rename paired HTML/XML tag
 

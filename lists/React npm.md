@@ -2,7 +2,7 @@
 
 The packages that I use in my react projects
 
-### Styling
+## Styling
 
 - [Material UI](https://material-ui.com/getting-started/installation/)
 
@@ -12,7 +12,9 @@ The packages that I use in my react projects
 
 - [ReactStrap](https://reactstrap.github.io/)
 
-### Form
+- [Article with 21 react ui component libraries](https://javascript.plainenglish.io/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188)
+
+## Form
 
 - [Formik](https://formik.org/docs/overview)
 
@@ -20,14 +22,20 @@ The packages that I use in my react projects
 
 [_How use these tools together_](https://www.youtube.com/watch?v=TxEVnaISj1w)
 
-### Database
+## Database
 
 - [Firebase](https://www.npmjs.com/package/firebase)
 
 - [Firebase hooks](https://www.npmjs.com/package/react-firebase-hooks)
 
-### Test
+## Test
 
 - [Cypress](https://www.cypress.io/)
 
 - [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+
+- [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library#installation) - [tutorial](https://www.toptal.com/react/testing-react-hooks-tutorial?utm_campaign=a-complete-guide-to-testing-react-hooks)
+
+## Miscellaneous
+
+- [react-i18next](https://react.i18next.com/getting-started) - For multilingual websites ([tutorial](https://medium.com/@ricklee_10931/react-multi-lingual-with-react-i18next-57879f986168))

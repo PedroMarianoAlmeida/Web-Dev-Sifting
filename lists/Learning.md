@@ -14,13 +14,41 @@ Some tools and tips about frontend
 
 - <https://mastery.games/>
 
+- <https://www.codingame.com/>
+
+- <https://app.codility.com/programmers/>
+
+- <https://coderbyte.com/>
+
 ## Free Courses
 
-- [Grow woth Google](https://grow.google/certificates/#?modal_active=none)
+### JavaScript
+
+- [Official Documentation (with tutorials)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+- <https://www.learn-js.org/>
+
+- <https://ericelliottjs.com/>
+
+- <https://nodeschool.io/>
+
+- <https://javascript30.com/>
+
+- <https://javascript.info/>
+
+- <https://eloquentjavascript.net/>
+
+### Others
+
+- [Grow with Google](https://grow.google/certificates/#?modal_active=none)
 
 - <https://www.freecodecamp.org/>
 
 - <https://scrimba.com/>
+
+- <https://www.theodinproject.com/>
+
+- <https://www.programiz.com/>
 
 - [CS50 - Harvard](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
@@ -28,11 +56,21 @@ Some tools and tips about frontend
 
 - <https://www.codecademy.com/>
 
+- <https://testautomationu.applitools.com/>
+
+- <https://www.coursera.org/>
+
+- <https://www.khanacademy.org/computing>
+
 - <https://www.uopeople.edu/programs/>
 
 - <https://developers.google.com/learn/pathways>
 
 - <https://developers.google.com/search/docs>
+
+- <https://aws.amazon.com/training/>
+
+- <https://www.becas-santander.com/>
 
 ## Repos with Education Content
 
