@@ -109,3 +109,13 @@ import DeleteIcon from "@material-ui/icons/Delete";
   <DeleteIcon />
 </IconButton>;
 ```
+
+### [Link](https://material-ui.com/components/links/)
+
+```javascript
+import Link from "@material-ui/core/Link";
+
+<Link href="#" target="_blank" rel="noopener noreferrer" variant="body2">
+  My Link
+</Link>;
+```
