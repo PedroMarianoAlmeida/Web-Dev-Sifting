@@ -36,7 +36,7 @@ const MyComponent = () => {
 import Box from "@material-ui/core/Box";
 import Button from '@material-ui/core/Button';
 
-<Box mx="auto" my={-2} pt={3}>
+<Box mx="auto" my={-2} pt={3} boxShadow={5}>
   <Button>Button<Button />
 </Box>;
 ```
