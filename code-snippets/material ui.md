@@ -61,6 +61,7 @@ import Typography from "@material-ui/core/Typography";
 
 ```javascript
 import Typography from "@material-ui/core/Typography";
+
 <Typography variant="h1" align="center">
   Text
 </Typography>;
@@ -70,6 +71,7 @@ import Typography from "@material-ui/core/Typography";
 
 ```javascript
 import Paper from "@material-ui/core/Paper";
+
 <Paper variant="outlined" elevation={3} square>
   Content
 </Paper>;
@@ -95,4 +97,15 @@ import Paper from "@material-ui/core/Paper";
         <Button>Button<Button />
       </Grid>
     </Grid>
+```
+
+### [IconButton](https://material-ui.com/components/buttons/#icon-buttons)
+
+```javascript
+import IconButton from "@material-ui/core/IconButton";
+import DeleteIcon from "@material-ui/icons/Delete";
+
+<IconButton aria-label="delete" disabled color="primary">
+  <DeleteIcon />
+</IconButton>;
 ```
