@@ -28,7 +28,9 @@ Only the gems of everything that I found over the internet about web development
 
 - [Nice Repos](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Nice%20Repos.md)
 
--[JavaScript Code Snippets](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Vanilla%20JavaScript.md)
+- [JavaScript Code Snippets](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Vanilla%20JavaScript.md)
+
+- [CSS Snippets](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/CSS.md)
 
 ## Tutorials
 
