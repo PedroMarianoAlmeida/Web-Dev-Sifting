@@ -18,7 +18,7 @@
 
 - Prettier - Code styling formatter
 
-- StandardJS - JavaScript Standard Style
+- StandardJS - JavaScript Standard Style (to disable runs Disable JavaScript Standard Style)
 
 - Auto Rename Tag - Automatically rename paired HTML/XML tag
 
