@@ -18,6 +18,8 @@ A list of all free and relevant material that I found about Next.js
 
 - [Some good example projects - Is a Youtube Playlist but the content isn't sequencial](https://www.youtube.com/playlist?list=PL8fumNHsC-3PqViUl9A5g0zk57acoCKnh)
 
+- [Run something only on client side](https://flaviocopes.com/nextjs-server-client-code/)
+
 ## Em Português
 
 - [Como Criar Um Site (Grátis e Moderno) - Filipe Deschamps](https://www.youtube.com/playlist?list=PLMdYygf53DP7FJzPslLnmqp0QylyFfA8a)
