@@ -34,7 +34,7 @@ The best tools and websites to help in Web Development Design
 
 - [COLOURlovers](https://www.colourlovers.com/) - Find colour pallete sorted by subject
 
-- [Color Adome](https://color.adobe.com/) - A tool for generating colour palette following the theory of design
+- [Color Adobe](https://color.adobe.com/) - A tool for generating colour palette following the theory of design
 
 ## Font
 
