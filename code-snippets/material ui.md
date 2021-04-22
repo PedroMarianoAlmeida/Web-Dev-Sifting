@@ -87,7 +87,7 @@ import Paper from "@material-ui/core/Paper";
     import Button from '@material-ui/core/Button';
 
     <Grid container>
-      <Grid xs={12} sm={8}>
+      <Grid item xs={12} sm={8}>
         <Typography paragraph>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit
         </Typography>
@@ -154,4 +154,15 @@ const EmailCopiedSnackbar = () => {
 };
 
 export default EmailCopiedSnackbar;
+```
+
+### [Tooltip](https://material-ui.com/components/tooltips/)
+
+```javascript
+import Tooltip from "@material-ui/core/Tooltip";
+import Button from "@material-ui/core/Button";
+
+<Tooltip title="Add" placement="top-start">
+  <Button>top-start</Button>
+</Tooltip>;
 ```
