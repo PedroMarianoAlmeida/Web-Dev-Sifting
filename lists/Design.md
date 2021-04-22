@@ -22,7 +22,7 @@ The best tools and websites to help in Web Development Design
 
 - [Materialize](https://materializecss.com/icons.html)
 
-- [Colorful Brand Logos](https://seeklogo.com/)
+- Colorful Brand Logos: <https://seeklogo.com/> and <https://worldvectorlogo.com/>
 
 ## Colors
 

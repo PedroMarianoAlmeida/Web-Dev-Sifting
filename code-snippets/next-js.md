@@ -8,7 +8,12 @@
 
 ```javascript
 import Image from "next/image";
-<Image src="/images/logos/firebase.com.svg" height={30} width={30} />;
+<Image
+  src="/images/logos/firebase.com.svg"
+  alt="Picture of the author"
+  height={30}
+  width={30}
+/>;
 ```
 
 ### [Link](https://nextjs.org/docs/api-reference/next/link)
