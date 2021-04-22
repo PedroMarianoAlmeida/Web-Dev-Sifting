@@ -2,7 +2,13 @@
 
 A list of all free and relevant material that I found about Next.js
 
-## In English
+## Articles
+
+- [Import SVG](https://dev.to/dolearning/importing-svgs-to-next-js-nna)
+
+- [Run something only on client side](https://flaviocopes.com/nextjs-server-client-code/)
+
+## Full Courses
 
 - [Offical Documentation](https://nextjs.org/docs/getting-started)
 
@@ -16,9 +22,7 @@ A list of all free and relevant material that I found about Next.js
 
 - [Next.js Crash Course - One single video](https://www.youtube.com/watch?v=IkOVe40Sy0U&list=PLmFMZQC7BFE_nKPyMYi7BhjSgnkV_7V-X&index=3&t=1821s)
 
-- [Some good example projects - Is a Youtube Playlist but the content isn't sequencial](https://www.youtube.com/playlist?list=PL8fumNHsC-3PqViUl9A5g0zk57acoCKnh)
-
-- [Run something only on client side](https://flaviocopes.com/nextjs-server-client-code/)
+- [Some good example projects - Is a Youtube Playlist but the content isn't sequential](https://www.youtube.com/playlist?list=PL8fumNHsC-3PqViUl9A5g0zk57acoCKnh)
 
 ## Em Português
 

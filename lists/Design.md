@@ -22,6 +22,8 @@ The best tools and websites to help in Web Development Design
 
 - [Materialize](https://materializecss.com/icons.html)
 
+- [Colorful Brand Logos](https://seeklogo.com/)
+
 ## Colors
 
 - [Coolors](https://coolors.co/) - The simples colour pallete generator (tip: Lock the main color at center)

@@ -39,3 +39,5 @@ Only the gems of everything that I found over the internet about web development
 ## Code Snippets
 
 - [Material UI](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/code-snippets/material%20ui.md)
+
+- [Next JS](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/code-snippets/next-js.md)
