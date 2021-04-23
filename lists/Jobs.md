@@ -42,9 +42,11 @@
 
 - <https://freeup.net/>
 
-### Country Specific
+### Region Specific
 
 - <https://careers.greatercph.com/> - Greater Copanhagen
+
+- <https://www.roberthalf.com/> - USA
 
 #### Canada
 
@@ -62,7 +64,7 @@
 
 - <https://ca.jooble.org/>
 
-## Para brasileiros
+#### Brazil
 
 - <https://www.growyx.com/>
 
