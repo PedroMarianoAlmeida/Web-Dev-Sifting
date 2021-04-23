@@ -32,6 +32,8 @@ Only the gems of everything that I found over the internet about web development
 
 - [CSS Snippets](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/CSS.md)
 
+- [Jobs](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/lists/Jobs.md)
+
 ## Tutorials
 
 - [Fontawesome React](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/tutorials/fontawesome-react.md)

@@ -10,6 +10,8 @@ The best tools and websites to help in Web Development Design
 
 - <https://unsplash.com/>
 
+- <https://www.freepik.com/>
+
 ## Icons
 
 - [Font Awsome](https://fontawesome.com/) - [using with React.js](https://github.com/PedroMarianoAlmeida/Web-Dev-Panning/blob/master/tutorials/fontawesome-react.md)
