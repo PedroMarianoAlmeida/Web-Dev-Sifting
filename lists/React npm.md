@@ -36,6 +36,10 @@ The packages that I use in my react projects
 
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library#installation) - [tutorial](https://www.toptal.com/react/testing-react-hooks-tutorial?utm_campaign=a-complete-guide-to-testing-react-hooks)
 
+- [RITEway](https://www.npmjs.com/package/riteway) - RITEway forces you to write Readable, Isolated, and Explicit tests
+
 ## Miscellaneous
 
 - [react-i18next](https://react.i18next.com/getting-started) - For multilingual websites ([tutorial](https://medium.com/@ricklee_10931/react-multi-lingual-with-react-i18next-57879f986168))
+
+- [Typewriter Effect](https://www.npmjs.com/package/typewriter-effect#react) - Animated text

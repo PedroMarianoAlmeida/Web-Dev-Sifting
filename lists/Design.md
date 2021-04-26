@@ -53,3 +53,5 @@ The best tools and websites to help in Web Development Design
 - <https://carbon.now.sh/> - Create and share beautiful images of your source code
 
 - [Canva](https://www.canva.com/) - Biuld logo (and social media posts)
+
+- [Emojipedia](https://emojipedia.org/) - A list with all emojis
