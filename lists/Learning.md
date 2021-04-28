@@ -134,4 +134,4 @@ Some tools and tips about frontend
 
 ### Livros
 
--[Introdução à Programação: 500 Algoritmos Resolvidos](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-Algoritmos-Resolvidos/dp/8535210199)
+- [Introdução à Programação: 500 Algoritmos Resolvidos](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-Algoritmos-Resolvidos/dp/8535210199)
