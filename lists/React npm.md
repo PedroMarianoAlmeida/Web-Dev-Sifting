@@ -43,3 +43,5 @@ The packages that I use in my react projects
 - [react-i18next](https://react.i18next.com/getting-started) - For multilingual websites ([tutorial](https://medium.com/@ricklee_10931/react-multi-lingual-with-react-i18next-57879f986168))
 
 - [Typewriter Effect](https://www.npmjs.com/package/typewriter-effect#react) - Animated text
+
+- [Loading Skeleton](https://www.npmjs.com/package/react-loading-skeleton) - Or create your own [here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i6bZhMuAzQpC6YgLmB4k4-)
