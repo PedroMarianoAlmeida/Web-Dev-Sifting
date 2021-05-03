@@ -10,6 +10,8 @@ Some tools and tips about frontend
 
 - [Stackedit](https://stackedit.io/app#) - Write and preview Mark Down
 
+- [HTML and CSS Free Templates](http://www.mashup-template.com/templates.html)
+
 ## Content
 
 - [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) (and the [dogs explanation version](https://httpstatusdogs.com/))

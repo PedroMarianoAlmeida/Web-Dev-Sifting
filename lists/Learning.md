@@ -12,6 +12,8 @@ Some tools and tips about frontend
 
 - <https://flexboxfroggy.com/> - CSS Flexbox
 
+- <http://www.flexboxdefense.com/> - CSS Flexbox
+
 - <https://codepip.com/games/grid-garden/> - CSS Grid
 
 - <https://mastery.games/>
@@ -23,6 +25,10 @@ Some tools and tips about frontend
 - <https://coderbyte.com/>
 
 - <https://www.codewars.com/>
+
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+
+- <https://learngitbranching.js.org/> : Git
 
 ## Free Courses
 
@@ -80,6 +86,8 @@ Some tools and tips about frontend
 
 - <https://www.frontendmentor.io/>
 
+- <https://refactoring.guru/> : Design Patterns and Refactoring
+
 ## Repos with Education Content
 
 - <https://github.com/danistefanovic/build-your-own-x>
@@ -123,6 +131,8 @@ Some tools and tips about frontend
 - [Refactoring](https://martinfowler.com/books/refactoring.html)
 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=asc_df_0321125215/?tag=googleshopp00-20&linkCode=df0&hvadid=379735814613&hvpos=&hvnetw=g&hvrand=17741381891468952411&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001655&hvtargid=pla-449269547899&psc=1)
+
+- [JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/)
 
 ## Português
 

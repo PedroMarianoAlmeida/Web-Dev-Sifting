@@ -4,6 +4,10 @@
 
 - What it is: A way of organizing data (so that it can be used effectively)
 
+- Why use it?
+  - To create fast and powerful algorithms
+  - They help to manage and organize data
+
 ## Linked List
 
 - Composition
