@@ -21,7 +21,7 @@ The best tools and websites to help in Web Development Design
 - [Hero Icons](https://heroicons.com/)
 - [Iconduck](https://iconduck.com/)
 - [Materialize](https://materializecss.com/icons.html)
-- Colorful Brand Logos: <https://seeklogo.com/> and <https://worldvectorlogo.com/>
+- Colorful Brand Logos - <https://seeklogo.com/> and <https://worldvectorlogo.com/>
 
 ## Illustrations
 

@@ -28,7 +28,7 @@ Some tools and tips about frontend
 
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
-- <https://learngitbranching.js.org/> : Git
+- <https://learngitbranching.js.org/> - Git
 
 ## Free Courses
 
@@ -82,11 +82,11 @@ Some tools and tips about frontend
 
 - <https://www.becas-santander.com/>
 
-- <https://commonmark.org/help/tutorial/> : Learn Markdown
+- <https://commonmark.org/help/tutorial/> - Learn Markdown
 
 - <https://www.frontendmentor.io/>
 
-- <https://refactoring.guru/> : Design Patterns and Refactoring
+- <https://refactoring.guru/> - Design Patterns and Refactoring
 
 ## Repos with Education Content
 
