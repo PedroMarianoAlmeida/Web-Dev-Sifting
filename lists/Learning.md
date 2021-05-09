@@ -104,6 +104,8 @@ Some tools and tips about frontend
 
 - <https://github.com/jlevy/the-art-of-command-line>
 
+- <https://github.com/ryanmcdermott/clean-code-javascript>
+
 ## Paid Courses
 
 - <https://courses.leighhalliday.com/>
@@ -115,6 +117,12 @@ Some tools and tips about frontend
 - <https://www.altcademy.com/>
 
 - <https://leetcode.com/>
+
+### Focused in interview preparation
+
+- <https://skilled.dev/>
+
+- <https://vanhack.com/premium>
 
 ## Apps
 
