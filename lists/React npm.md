@@ -14,6 +14,8 @@ The packages that I use in my react projects
 
 - [Article with 21 react ui component libraries](https://javascript.plainenglish.io/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188)
 
+- [Table](https://www.npmjs.com/package/react-data-table-component)
+
 ## Form
 
 - [Formik](https://formik.org/docs/overview)
