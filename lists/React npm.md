@@ -11,9 +11,7 @@ The packages that I use in my react projects
 - [Table](https://www.npmjs.com/package/react-data-table-component)
 
 ## Form
-- [Formik](https://formik.org/docs/overview)
-- [Yup](https://www.npmjs.com/package/yup)
-[_How use these tools together_](https://www.youtube.com/watch?v=TxEVnaISj1w)
+- [Formik](https://formik.org/docs/overview) and [Yup](https://www.npmjs.com/package/yup) - ([_How use these tools together_](https://www.youtube.com/watch?v=TxEVnaISj1w))
 
 ## Database
 - [Firebase](https://www.npmjs.com/package/firebase)
