@@ -19,7 +19,8 @@ The packages that I use in my react projects
 
 ## Test
 - [Cypress](https://www.cypress.io/)
-- [Storybook](https://storybook.js.org/docs/react/get-started/introduction)
+
+- [React Testing Library](https://www.npmjs.com/package/@testing-library/react) - [tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ)
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library#installation) - [tutorial](https://www.toptal.com/react/testing-react-hooks-tutorial?utm_campaign=a-complete-guide-to-testing-react-hooks)
 - [RITEway](https://www.npmjs.com/package/riteway) - RITEway forces you to write Readable, Isolated, and Explicit tests
 
@@ -28,3 +29,4 @@ The packages that I use in my react projects
 - [Typewriter Effect](https://www.npmjs.com/package/typewriter-effect#react) - Animated text
 - [Loading Skeleton](https://www.npmjs.com/package/react-loading-skeleton) - Or create your own [here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i6bZhMuAzQpC6YgLmB4k4-)
 - [next-sitemap](https://www.npmjs.com/package/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages. - ([Tutorial](https://www.youtube.com/watch?v=fOoH9Z5adrg))
+- - [Storybook](https://storybook.js.org/docs/react/get-started/introduction) - A way to document the react components
