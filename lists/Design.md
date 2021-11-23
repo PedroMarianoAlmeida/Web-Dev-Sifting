@@ -57,3 +57,4 @@ The best tools and websites to help in Web Development Design
 - [Canva](https://www.canva.com/) - Biuld logo (and social media posts)
 - [Emojipedia](https://emojipedia.org/) - A list with all emojis
 - <https://responsively.app/> - Software to test responsivity
+- <https://realfavicongenerator.net/>
