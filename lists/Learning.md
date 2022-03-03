@@ -8,6 +8,8 @@ Some tools and tips about frontend
 
 - <https://www.hackerrank.com/>
 
+- <https://www.jschallenger.com/> - JavaScript only
+
 - <https://projecteuler.net/>
 
 - <https://flexboxfroggy.com/> - CSS Flexbox
