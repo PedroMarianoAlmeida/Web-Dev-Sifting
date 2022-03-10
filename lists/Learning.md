@@ -32,7 +32,7 @@ Some tools and tips about frontend
 
 - <https://learngitbranching.js.org/> - Git
 
--<https://daily-dev-tips.com/posts/10-amazing-games-to-learn-css/> - Games to learn CSS
+- <https://daily-dev-tips.com/posts/10-amazing-games-to-learn-css/> - Games to learn CSS
 
 ## Free Courses
 
