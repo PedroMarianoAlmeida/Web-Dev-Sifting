@@ -7,6 +7,7 @@
 - <https://angel.co/jobs>
 - <https://www.simplyhired.com/>
 - <https://www.glassdoor.com>
+- <https://landing.jobs/>
 
 ### Remote
 
@@ -29,6 +30,9 @@
 
 - <https://www.toptal.com/>
 - <https://freeup.net/>
+- <https://andela.com/>
+- <https://www.turing.com/>
+- <https://vanhack.com/>
 
 ### Small gigs
 
@@ -52,9 +56,12 @@
 - <https://ca.indeed.com/>
 - <https://www.jobbank.gc.ca/>
 - <https://ca.jooble.org/>
+- <https://talentmontreal.com/> - Montreal
+- <https://www.quebecentete.com/> - Quebec
 
 #### Brazil
 
 - <https://www.growyx.com/>
 - <https://bossabox.com/para-profissionais>
 - <https://vulpi.com.br/>
+- <https://globally.tech/>
