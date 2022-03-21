@@ -30,9 +30,10 @@
 
 - <https://www.toptal.com/>
 - <https://freeup.net/>
-- <https://andela.com/>
+- <https://andela.com/> - +3 years XP
 - <https://www.turing.com/>
 - <https://vanhack.com/>
+- <https://www.nextonlabs.com/>
 
 ### Small gigs
 
