@@ -13,6 +13,7 @@ The best tools and websites to help in Web Development Design
 - <https://generative-placeholders.glitch.me/> - Generative art as your image placeholders
 
 - [Image Resizer](https://promo.com/tools/image-resizer/)
+- [Undraw](https://undraw.co/illustrations) - SVG for corporative propouses
 
 ## Icons
 
