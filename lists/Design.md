@@ -61,3 +61,4 @@ The best tools and websites to help in Web Development Design
 - <https://realfavicongenerator.net/> - Generate Favicon
 - <https://bennettfeely.com/clippy/> - CSS clippy-path wizzard (kind of create masks on images)
 - [Template Portfolio websites](https://rigorousthemes.com/blog/best-software-developer-portfolio-template-free-paid/)
+- <https://websemantics.uk/tools/> - This website help to create CSS classes for responsivitie
