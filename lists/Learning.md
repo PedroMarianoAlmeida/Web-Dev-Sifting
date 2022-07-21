@@ -34,6 +34,8 @@ Some tools and tips about frontend
 
 - <https://daily-dev-tips.com/posts/10-amazing-games-to-learn-css/> - Games to learn CSS
 
+- <https://sqlbolt.com/> - SQL
+
 ## Free Courses
 
 ### JavaScript
@@ -91,6 +93,8 @@ Some tools and tips about frontend
 - <https://www.frontendmentor.io/>
 
 - <https://refactoring.guru/> - Design Patterns and Refactoring
+
+- <https://www.cloudskillsboost.google/paths/> - Cloud
 
 ## Repos with Education Content
 
