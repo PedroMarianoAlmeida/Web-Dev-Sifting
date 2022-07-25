@@ -96,6 +96,8 @@ Some tools and tips about frontend
 
 - <https://www.cloudskillsboost.google/paths/> - Cloud
 
+- <https://visualgo.net/en> - Data Structure 
+
 ## Repos with Education Content
 
 - <https://github.com/danistefanovic/build-your-own-x>
