@@ -8,6 +8,8 @@
 - <https://www.simplyhired.com/>
 - <https://www.glassdoor.com>
 - <https://landing.jobs/>
+- <https://www.jobsity.com/>
+- <https://www.bairesdev.com/>
 
 ### Remote
 
@@ -32,7 +34,6 @@
 - <https://freeup.net/>
 - <https://andela.com/> - +3 years XP
 - <https://www.turing.com/>
-- <https://vanhack.com/>
 - <https://www.nextonlabs.com/>
 
 ### Small gigs
@@ -42,6 +43,11 @@
 - <https://www.mturk.com/​>
 - <https://appen.com/> ​
 - <https://www.lionbridge.com/>
+
+### International Relocation
+
+- <https://vanhack.com/>
+- <https://aiesec.org/global-talent> 
 
 ### Region Specific
 
