@@ -10,6 +10,7 @@
 - <https://landing.jobs/>
 - <https://www.jobsity.com/>
 - <https://www.bairesdev.com/>
+- <https://www.honeypot.io/>
 
 ### Remote
 
