@@ -74,3 +74,29 @@
 - <https://vulpi.com.br/>
 - <https://globally.tech/>
 - [GeekHunter](https://rumbling-grey-b7a.notion.site/GeekHunter-International-Job-Board-924b7e24d78e4bd2bca222e067709f35)
+
+## Volunteer
+- <https://www.volunteermatch.org/>
+
+#### Code
+- <https://app.code4socialgood.org/>
+- <https://www.democracylab.org/>
+- <https://goodfirstissue.dev/>
+- <https://open.canada.ca/en/open-data>: Possible create some open source tool with canadian open data
+
+##### Active Open Source Projects
+- <https://github.com/Maxihost/metal-ui>
+
+### Canadá
+
+- <https://www.volunteertoronto.ca/>
+
+#### Remote
+- [volunteer.ca](https://volunteer.ca/index.php?MenuItemID=422)
+- [ivolunteer.ca](https://www.ivolunteer.ca/need/index?q=&age=&agency_id=&min_available_slots=&dateOn=&distance=&zip=&need_impact_area=&need_init_id=&qualification_id=&meta%5B%5D=&meta%5B%5D=&meta%5B%5D=virtual_need&meta%5B%5D=&allowTeams=&ug_id=&s=1)
+
+
+
+
+
+
