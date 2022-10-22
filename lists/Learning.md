@@ -56,6 +56,8 @@ Some tools and tips about frontend
 
 ### Others
 
+- <https://fullstackopen.com/en/> 
+
 - [Grow with Google](https://grow.google/certificates/#?modal_active=none)
 
 - <https://www.freecodecamp.org/>
